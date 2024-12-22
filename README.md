@@ -1,6 +1,4 @@
-<DOCTYPE html>
-<head>
-</head>
+<!DOCTYPE html>
 <body>
 <h1>About JustMicka</h1>
   <br>
@@ -10,11 +8,11 @@ a passionate coding enthusiast with a love for simplicity and creativity in prog
   <h1>BEST AT</h1>
   <br>
   <ul>
-    <li> <h1> Lua </h1></li>
+    <h1> Lua </h1>
     <li>Utilizing Lua metatables for advanced object-oriented programming </li>
     <li>Designing game logic and mechanics</li>
     <hr>
-    <li><h1> Python </h1></li>
+    <h1> Python </h1>
     <li> Writing clean and efficient scripts </li>
     <li> Developing basic to intermediate applications </li>
     <li> Implementing basic automation tasks </li>
